@@ -17,7 +17,7 @@
         "/bin/kate",
         "/lib/pkgconfig",
         "/lib/plugins",
-        "/share/doc",
+        "/share/doc/HTML/*/kate",
         "/share/kateproject",
         "/share/man",
         "/share/plasma"
