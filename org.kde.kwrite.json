@@ -29,8 +29,8 @@
             "sources":  [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/21.12.2/src/kate-21.12.2.tar.xz",
-                    "sha256": "4143daf2b3fff6c228be82d37bbe1e3957d778c039139a57e2a0e895bdcba964"
+                    "url": "https://download.kde.org/stable/release-service/21.12.3/src/kate-21.12.3.tar.xz",
+                    "sha256": "afa5141fb2746fc18ea2d97bd80ec37c096589822fe0b0e7ec00c63d0198e0de"
                 }
             ]
         }
