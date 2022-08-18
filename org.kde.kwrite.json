@@ -29,8 +29,8 @@
             "sources":  [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/22.04.3/src/kate-22.04.3.tar.xz",
-                    "sha256": "6e3e4f78c8c2b6a68ce8122dbcd1f1222ec18dd17aa1b4b155989a4659c8d436",
+                    "url": "https://download.kde.org/stable/release-service/22.08.0/src/kate-22.08.0.tar.xz",
+                    "sha256": "2fd9b131e13a9598ab8358a5eaa33ea56ce6740a1ce18a5691334827886bb788",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
