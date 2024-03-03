@@ -11,7 +11,8 @@
         "--share=ipc",
         "--socket=cups",
         "--socket=fallback-x11",
-        "--socket=wayland"
+        "--socket=wayland",
+        "--system-talk-name=org.freedesktop.UDisks2"
     ],
     "cleanup": [
         "/bin/kate",
